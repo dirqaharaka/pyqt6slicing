@@ -283,7 +283,7 @@ class Ui_Dialog(object):
         self.label_23.setText(_translate("Dialog", "0"))
         self.label.setText(_translate("Dialog", "-------------  Port 25 Status --------------"))
         self.label_2.setText(_translate("Dialog", "----------------  Options ------------------"))
-        self.checkBox.setText(_translate("Dialog", "Onlince Engine"))
+        self.checkBox.setText(_translate("Dialog", "Online Engine"))
         self.checkBox_2.setText(_translate("Dialog", "DNS MX Level (Fast)"))
         self.label_9.setText(_translate("Dialog", "Threads Count : "))
         self.label_24.setText(_translate("Dialog", "Helo Domain : "))
